@@ -1,2 +1,4 @@
 ¿Qué es GitHub?
 Es una plataforma web donde se suben trabajos y se puede trabajar de forma que todos puedan acceder a ella. 
+¿Qué es Git?
+Es como un "puente" para subir los proyectos desde lo local hasta la web ( forma remota ).
